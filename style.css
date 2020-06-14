@@ -1,0 +1,109 @@
+* {
+    /*margin: auto;*/
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: auto;
+    width: 375px;
+    height: 100%;
+    font-size: 20px;
+}
+
+/*label*/
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 30px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #85a3f4c4;
+    border-radius: 25px;
+
+    color: #9a9a9a;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid;
+    border-radius: 25px;
+    background-color: blue;
+
+    color: white;
+}
+
+/*label*/
+
+
+/*header*/
+.launching {
+    /*position: relative;*/
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: block;
+
+    font-size: 16px;
+    text-align: center;
+}
+.we {
+    color: #7a7676;
+    font-size: 25px;
+}
+.soon {
+    color: black;
+    font-size: 25px;
+}
+.logo {
+    width: 65px;
+    margin-top: 75px;
+    margin-bottom: 35px;
+}
+/*header*/
+
+/*section*/
+.stock {
+    margin: auto;
+}
+
+.dashboard {
+    width: 100%;
+}
+/*section*/
+
+
+
+/*footer*/
+.attribution {
+    font-size: 16px;
+}
+
+
+.facebook {
+    width: 25px;
+}
+
+.twitter{
+     width: 25px;
+ }
+
+.instagram{
+    width: 25px;
+}
+
+.social {
+    width: 100%;
+    height: 50px;
+    padding-left: 140px;
+}
+
+.copyright {
+    font-size: 16px;
+    text-align: center;
+}
+
+/*footer*/
